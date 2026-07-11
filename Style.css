@@ -1,0 +1,58 @@
+#pulsa {
+    
+}
+#jugar {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+
+    background-color: black;
+    color: white;
+}
+
+title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botones-menu {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.botones-menu button {
+    margin: 0;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+hr {
+    background-color: grey;
+    color:grey;
+    border: 1px solid rgba(0, 0, 0, 0.767);
+    margin: 20px 0;
+}
